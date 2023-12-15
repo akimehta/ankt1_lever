@@ -7,8 +7,8 @@ meta:
 
 lead:
   enabled: true
-  heading: "Hi I'm Ankit Mehta, a technology leader, business analyst and writer."
-  description: "My goal is to deliver value to my clients by utilizing my expertise in technology strategy and project management to solve complex business problems. "
+  heading: "Hi I'm Ankit Mehta, a technology leader, project manager and business analyst."
+  description: "My goal is to deliver value to organisations by utilizing my expertise in technology strategy and project management to solve complex business problems. "
   show_social_media_icons: true
   avatar:
     avatar_image: "images/avatar/avatar.jpg"
