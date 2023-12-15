@@ -1,5 +1,5 @@
 baseURL: /
-title: Hugo Lever
+title: 
 
 paginate: 3
 enableGitInfo: false
@@ -53,7 +53,7 @@ params:
     logo: Inter
 
   logo:
-    logo_text: "Hugo Lever"
+    logo_text: "Ankit Mehta"
     logo_image_desktop: images/logo/logo.svg
     logo_image_mobile: images/logo/logo-mobile.svg
     logo_image_desktop_invert: images/logo/logo-invert.svg # used on transparent header and when in dark mode. Normally a white version of the logo.
@@ -73,8 +73,8 @@ params:
   open_graph:
     og_type: "website"
     og_twitter_card: "summary"
-    og_twitter_site: "@zerostaticio"
-    og_twitter_creator: "@zerostaticio"
+    og_twitter_site: "@athemtikna"
+    og_twitter_creator: "@athemtikna"
 
   dark_mode:
     enable_dark_mode: true
