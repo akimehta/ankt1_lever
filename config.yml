@@ -126,6 +126,9 @@ menu:
     - name: About
       url: about
       weight: 2
+    - name: Blog
+      url: posts
+      weight: 3
 
 permalinks:
   posts: 'blog/:year/:month/:title/'
