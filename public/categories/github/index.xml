@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github on Hugo Lever</title>
+    <link>/categories/github/</link>
+    <description>Recent content in Github on Hugo Lever</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Dec 2018 10:26:40 +1000</lastBuildDate>
+    <atom:link href="/categories/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Serif theme</title>
+      <link>/work/zerostatic-hugo-serif/</link>
+      <pubDate>Sat, 29 Dec 2018 10:26:40 +1000</pubDate>
+      <guid>/work/zerostatic-hugo-serif/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo Winston theme</title>
+      <link>/work/zerostatic-hugo-winston/</link>
+      <pubDate>Sat, 29 Dec 2018 10:26:40 +1000</pubDate>
+      <guid>/work/zerostatic-hugo-winston/</guid>
+      <description>I built this theme which is a unique and modern website design created for authors and writers. As the author of this theme, I aimed to provide a clean and minimalistic look that highlights the content, making it the center of attention.
+Project structure . ├── assets │ ├── js │ │ └── scripts.js │ └── scss │ ├── _author.scss │ ├── _breakpoints.scss │ ├── _content.scss │ ├── _footer.scss │ ├── _header.</description>
+    </item>
+  </channel>
+</rss>

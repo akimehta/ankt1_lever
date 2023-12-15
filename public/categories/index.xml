@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Hugo Lever</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Hugo Lever</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Case Study</title>
+      <link>/categories/case-study/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/categories/case-study/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UI</title>
+      <link>/categories/ui/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/categories/ui/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Github</title>
+      <link>/categories/github/</link>
+      <pubDate>Sat, 29 Dec 2018 10:26:40 +1000</pubDate>
+      <guid>/categories/github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opensource</title>
+      <link>/categories/opensource/</link>
+      <pubDate>Sat, 29 Dec 2018 10:26:40 +1000</pubDate>
+      <guid>/categories/opensource/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>/categories/projects/</link>
+      <pubDate>Sat, 29 Dec 2018 10:26:40 +1000</pubDate>
+      <guid>/categories/projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>/categories/ai/</link>
+      <pubDate>Sat, 29 Dec 2018 10:24:47 +1000</pubDate>
+      <guid>/categories/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Articles</title>
+      <link>/categories/articles/</link>
+      <pubDate>Sat, 29 Dec 2018 10:24:47 +1000</pubDate>
+      <guid>/categories/articles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conference Talks</title>
+      <link>/categories/conference-talks/</link>
+      <pubDate>Sat, 29 Dec 2018 10:24:47 +1000</pubDate>
+      <guid>/categories/conference-talks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design</title>
+      <link>/categories/design/</link>
+      <pubDate>Sat, 29 Dec 2018 10:24:47 +1000</pubDate>
+      <guid>/categories/design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notes</title>
+      <link>/categories/notes/</link>
+      <pubDate>Sat, 29 Dec 2018 10:24:47 +1000</pubDate>
+      <guid>/categories/notes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Portfolio</title>
+      <link>/categories/portfolio/</link>
+      <pubDate>Sat, 29 Dec 2018 10:24:47 +1000</pubDate>
+      <guid>/categories/portfolio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TedX</title>
+      <link>/categories/tedx/</link>
+      <pubDate>Sat, 29 Dec 2018 10:24:47 +1000</pubDate>
+      <guid>/categories/tedx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ethics</title>
+      <link>/categories/ethics/</link>
+      <pubDate>Thu, 20 Dec 2018 09:38:03 +1000</pubDate>
+      <guid>/categories/ethics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Postcast</title>
+      <link>/categories/postcast/</link>
+      <pubDate>Thu, 20 Dec 2018 09:38:03 +1000</pubDate>
+      <guid>/categories/postcast/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
