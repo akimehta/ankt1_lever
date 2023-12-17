@@ -98,7 +98,7 @@ params:
     show_social_media_in_mobile_menu: true
 
   footer:
-    enable_footer: false # show/hide the entire footer
+    enable_footer: true # show/hide the entire footer
     footer_title: "Jekyll Lever"
     footer_description: ""
     enable_social_media_links: true
