@@ -16,7 +16,7 @@ lead:
     avatar_image_width: "120px"
   buttons: 
     - button: 
-      url: "https://calendly.com/zerostatic"
+      url: "mailto:ankit2612@proton.me"
       text: "I'm available for work"
       external: true
       dot: "#46e385" # you can use any color
