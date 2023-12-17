@@ -27,15 +27,15 @@ work:
   show_view_all: false
   limit: 12
 
-cta:
-  enabled: true
-  heading: "Kickstart your Hugo website"
-  description: "Get your own portfolio up and running in hours with our premium template."
-  email: james@domain.com
-  phone: "+61 048 711 800"
-  buttons:
-  - button: 
-    url: "https://www.zerostatic.io/theme/hugo-lever/"
-    text: "Buy theme"
-    external: true
+# cta:
+#   enabled: true
+#   heading: "Kickstart your Hugo website"
+#   description: "Get your own portfolio up and running in hours with our premium template."
+#   email: james@domain.com
+#   phone: "+61 048 711 800"
+#   buttons:
+#   - button: 
+#     url: "https://www.zerostatic.io/theme/hugo-lever/"
+#     text: "Buy theme"
+#     external: true
 ---
