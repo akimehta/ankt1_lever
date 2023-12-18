@@ -1,6 +1,6 @@
 ---
 title: "Systems Analyst at Monash University"
-date: 
+date: 2016-07-01T10:24:47+10:00
 categories: ["Education Technology"]
 description: "I was employed at Monash University's eSolutions in the most interesting time."
 icon: "images/icons/icons8-microphone-50.png"
