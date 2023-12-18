@@ -1,7 +1,7 @@
 ---
 title: "Technical Business Analyst at Ava Risk Group"
 date: 2018-01-16T09:38:03+10:00
-categories: ["Software development", "Quality assurance", "Data analysis"]
+categories: ["Software", "Testing", "Data analysis"]
 description: "I was the first non-PhD to be employed here."
 icon: "images/icons/icons8-artificial-intelligence-50.png"
 ---
