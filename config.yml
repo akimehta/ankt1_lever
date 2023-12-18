@@ -99,7 +99,7 @@ params:
 
   footer:
     enable_footer: true # show/hide the entire footer
-    footer_title: "Jekyll Lever"
+    footer_title: "Ankit Mehta"
     footer_description: ""
     enable_social_media_links: true
     enable_contact_details: true
