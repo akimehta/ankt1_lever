@@ -2,10 +2,12 @@
 title: "Systems Analyst at Monash University"
 date: 
 categories: ["Education Technology"]
+description: "I was employed at Monash University's eSolutions in the most interesting time."
+icon: "images/icons/icons8-microphone-50.png"
 icon: "images/icons/icons8-ios-photos-50.png"
 ---
 
-I was lucky to be employed at Monash University's eSolutions in the most interesting time. The University was going through a massive technology and process uplift and was spending an impressive amount of money in this transformation. They were adopting the Agile ways of working using the Scrum methodology, performing an enterprise architecture review and reconstruction, and finding ways to improve enterprise-wide communication and user experience. Being the largest university in Australia with approximately 86,000 students and almost 17,000 academic and professional staff, the planned changes were incredibly challenging and extremely big. I was engaged in three major projects:
+I was lucky to be employed at Monash University's eSolutions in the most interesting time. It was July 2016 and the University was going through a massive technology and process uplift and was spending an impressive amount of money in this transformation. They were adopting the Agile ways of working using the Scrum methodology, performing an enterprise architecture review and reconstruction, and finding ways to improve enterprise-wide communication and user experience. Being the largest university in Australia with approximately 86,000 students and almost 17,000 academic and professional staff, the planned changes were incredibly challenging and extremely big. I was engaged in three major projects:
 
 * setting up and automating Business Intelligence (BI) reporting system
 * procuring two third-party applications
