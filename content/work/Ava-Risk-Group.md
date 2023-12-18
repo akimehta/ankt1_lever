@@ -6,7 +6,7 @@ description: "I was the first non-PhD to be employed here."
 icon: "images/icons/icons8-artificial-intelligence-50.png"
 ---
 
-Do you remember the american sitcom series [The Big Bang Theory](https://www.imdb.com/title/tt0898266/)? Imagine being Penny Barber working with Sheldon Cooper and his gang every single day. I was Penny at [Ava Risk Group](https://www.theavagroup.com) (then called [Future Fibre Technologies](https://www.fftsecurity.com)). It was an honour working in the Research and Development team with all extremely brilliant minds in the fields of Physics, Electronics, Mechanics and IT. Their jokes often went above my head but I got to experiment and gain an incredible amount of skills in software development, business analysis, quality assurance and technical documentation.
+Do you remember the American sitcom series [The Big Bang Theory](https://www.imdb.com/title/tt0898266/)? Imagine being Penny Barber working with Sheldon Cooper and his gang every single day. I was Penny at [Ava Risk Group](https://www.theavagroup.com) (then called [Future Fibre Technologies](https://www.fftsecurity.com)). It was an honour working in the Research and Development team with all extremely brilliant minds in the fields of Physics, Electronics, Mechanics and IT. Their jokes often went above my head but I got to experiment and gain an incredible amount of skills in software development, business analysis, quality assurance and technical documentation.
 My huge gratitude goes to my project manager Alex Adams.
 
 In my three years there I worked on a lot of projects and I can't really discuss most of them in detail due to signed confidentiality agreements. There are three projects I can share with you here.
