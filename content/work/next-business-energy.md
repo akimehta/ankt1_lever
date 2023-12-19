@@ -35,7 +35,7 @@ It is 2021 and the entire world is talking about sustainable energy. Next Busine
 
 I got an opportunity to lead this project. My team and I engaged with a third-party vendor who had built a platform where people could sell and purchase excess energy generated from their solar panels. This was a very innovative solution which required integration with our internal enterprise system - Orion. This was not an easy task and required constant project coordination between the vendor providing this platform and the support and development team of Orion. I was responsible for engaging and managing relations with the vendor, project coordination, preparing the project plan, business requirements documents, systems integration documentation, and data and entity mapping documentation.
 
-Aftermath of the project:
+Aftermath:
 * The company was able to set up its base in regional Queensland
 * The customers (mainly small to medium businesses) were happy as they could now sell their excess solar energy and make some money off of it. On the other end, they were happy to access renewable energy at better rates.
 * The customers were also able to provide these benefits to their employees and attract more workforce.  
