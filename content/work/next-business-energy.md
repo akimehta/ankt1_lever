@@ -5,6 +5,13 @@ categories: ["Business process", "SME", "Project management"]
 description: "Performed gap analysis which revelaed significant revenue leakage."
 icon: "images/icons/icons8-light-on-50.png"
 ---
+## My responsibilities
+* Develop and maintain project plan, coordinate, and prioritise project tasks and manage project budget and resources. 
+* Manage internal staff, project sponsors and senior management’s expectations and provide regular reports to key stakeholders and upper management regarding the status of the project. 
+* Liaise between vendors and internal staff across multiple business units while making sure milestone dates are being met. 
+* Perform and document change management and risk analysis. Perform detailed requirements analysis for all business reporting, departmental projects, and software requests. 
+
+## The story
 "Once you get a job in the energy industry, you are set for life!", told my friend Abhishek when I got the role as a Business Analyst in Next Business Energy. 
 "Once you are in the energy indsutry, either you get frustrated in four months and quit or fall in love with the chaos and stay forever", said one of the managers on my first day of joining.
 Well, I my journey with the industry lasted for six months. 
@@ -13,7 +20,7 @@ It is an interesting and extremely complex industry but a bit too chaotic for my
 
 In my fairly short stint at Next Business Energy, I had the opportunity to lead two major projects and become an SME for a part of the backbone software system of this company - [Orion](https://orion-alliance.com/energy-utilities). 
 
-## Perform gap analysis
+### Perform gap analysis
 On my day 2 of joining the company, I was tasked with drawing and documenting all the business processes for all the departments. This included but were not limited to Sales, Marketing, Regulation and Compliance, Wholesale, Customer Service, Technology, Operations, Administration, Billing, Customer Delivery, and Executive Leadership. The last time the business processes were documented was 5 years ago and the company had evolved a lot since. I used [Lucidchart](https://www.lucidchart.com/pages/) and BPMN 2.0 representation to draw and create detailed current state business process maps. I engaged with almost every employee in every team to develop this using the following methods:
 * Individual interviews
 * Group interviews
@@ -28,7 +35,7 @@ Aftermath:
 * The leadership team was able to identify the gaps and streamline a lot of their administration and customer delivery processes.
 * They had a visual representation of an ideal process roadmap that the teams could work towards. 
 
-## Help the company enter a new market
+### Help the company enter a new market
 It is 2021 and the entire world is talking about sustainable energy. Next Business Energy's customers are small to medium size businesses and the company wanted to accomplish two goals:
 * Enter the Queensland market
 * Offer up to 100% carbon offset (renewable energy) products to their customers

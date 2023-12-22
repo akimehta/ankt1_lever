@@ -5,11 +5,18 @@ categories: ["Software", "Cloud", "Database"]
 description: "My first job. This was based in the beautiful city of Pune in western India."
 icon: "images/icons/icons8-hashtag-large-50.png"
 ---
+## My responsibilities
+* Enhanced overall performance of cloud infrastructure by developing and maintaining ERP applications and reports for the company’s clients, conducting system analysis on existing network infrastructure, and preparing scripts to automate certain network processes. 
+* Designed and managed SQL databases for development and production environments. 
+* Designed and developed web service controllers to process, extract, and deliver relevant information efficiently from multiple SQL database servers hosting ERP systems. 
+* Wrote business and technical documentation and operational procedures.
+
+## The story
 Fresh out of my Masters degree, I got recruited into [Yardi Software India Pvt. Ltd.](https://www.yardi.com/about-us/) as an intern. My first paid corporate job. I still remember the first day of work. Colourful butterflies in my stomach and heaps of dreams to quickly learn and climb the corporate ladder. I had to learn VB.Net programming on-the-go and an in-house framework that the initial developers at Yardi built called Cafe framework. I was proficcient with C#.Net and ASP.Net so it didn't take me a while to get a grasp of VB.Net. 
 
 Yardi makes ERP software for property management industry. The users include property managers, builders, contractors, brokers, tenants, and other professionals in the property market. 
 
-## Build a new broker portal
+### Build a new broker portal
 When I joined Yardi, they were planning to build some online portals for the end users. One of them was a broker portal. I was tasked with building this portal from scratch using VB.Net and Cafe framework. There were a few complexities involved in the execution of this product (or portal). 
 * One broker can be working for multiple property management companies.
 * One broker can have multiple tenants and multiple sites.

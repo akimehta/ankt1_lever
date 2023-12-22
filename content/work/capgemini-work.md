@@ -5,6 +5,15 @@ categories: ["Business process", "SME", "Project management"]
 description: "I was on the client side - ANZ Bank since day one."
 icon: "images/icons/icons8-circuit-50.png"
 ---
+## My responsibilities
+* Perform technical and business process mapping for AWS and GCP cloud migration within the re-platform lane. 
+* Gather, analyse, and document business and technical requirements from multiple teams associated with applications entering the migration pipeline. 
+* Report to and engage with senior stakeholders to build a strong and continuous relationship between ANZ and Capgemini migration engineers. 
+* Apply SAFe practice and create features, epics and user stories in JIRA while acting as an Agile Scrum Master for Design and Migration squads. 
+* Support DevOps engineers and Cloud Solution Architects by clearing all tooling and internal communication-related impediments. 
+* Mentor and coach graduates and associate BAs. 
+
+## The story
 I love change. My work from home desk setup keeps getting changed every few weeks. I am currently sitting at my work desk facing towards my room's east wall with a window to my left. A few weeks later, I am planning to change my setting to face toward the window with the east wall to my right. This is the same with my work as well. I love working on different projects rather than working on and supporting a single product. During one of my meditation sessions, I figured it is simply because I am a very curious person and someone who just enjoys learning something new. To quench my thirst for knowledge and experience, I love changes. 
 
 I thought working for a big consultancy firm would be perfect! I would get to work on multiple projects with multiple clients. I joined Capgemini as a Senior Consultant and since day one, I was on the client side with ANZ Bank as a Senior Technical Business Analyst on a major enterprise-wide cloud transformation project. ANZ Bank had decided to migrate more than 3000 on-premises applications to GCP and AWS cloud environments. 
