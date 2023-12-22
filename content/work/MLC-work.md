@@ -1,6 +1,6 @@
 ---
 title: "Senior Technical Business Analyst at MLC Life insurance"
-date: 2021-09-16T09:38:03+10:00
+date: 2022-04-16T09:38:03+10:00
 categories: ["API Integration", "Agile", "Project management"]
 description: "An amazing team and two leaders I have learned the most from."
 icon: "images/icons/icons8-settings-50.png"
