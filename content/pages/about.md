@@ -2,13 +2,11 @@
 title: "About"
 date: 2018-11-28T15:15:34+10:00
 url: "about"
-description: "Business plan hackathon handshake responsive web design."
+description: "If you really look closely, most overnight successes took a long time. - Steve Jobs"
 image: "images/photos/about.jpg"
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+It's 1 am on a warm Christmas morning. I live in Melbourne, Australia so the second-half of December is usually warm. I am not getting sleep. Maybe it is the excitement of my birthday tomorrow, or a gush of sweet memories. Life has been and is continuing to be a beautiful journey. A fun-filled childhood, a teen age full of vast experiences with friends and relationships, and an adulthood of accountability, hardwork, competition and laughter all the way.  
 
 ## Ne verba patulosque numen vix libet
 
