@@ -6,7 +6,7 @@ description: "If you really look closely, most overnight successes took a long t
 image: "images/photos/about.jpg"
 ---
 
-It's 1 am on a warm Christmas morning. I live in Melbourne, Australia so the second-half of December is usually warm. I am not getting sleep. Maybe it is the excitement of my birthday tomorrow, or a gush of sweet memories. Life has been and is continuing to be a beautiful journey. A fun-filled childhood, a teen age full of vast experiences with friends and relationships, and an adulthood of accountability, hardwork, competition and laughter all the way.  
+It's 1 am on a warm Christmas morning. I live in Melbourne, Australia so the second-half of December is usually warm. I am not getting sleep. Maybe it is the excitement of my birthday tomorrow, or a gush of sweet memories. Life has been, and is continuing to be, a beautiful journey. A fun-filled childhood, a teen age full of vast experiences with relationships, and an adulthood of accountability, hardwork, responsibilities, and laughter all the way.
 
 ## Ne verba patulosque numen vix libet
 
