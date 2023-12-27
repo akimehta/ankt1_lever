@@ -23,6 +23,7 @@ Requirements Analysis, Project Management, Team Building & Leadership, IT Strate
 * Mentor, support and regularly engage teams to enhance the team’s capabilities. 
 * Ensure the applications, platforms, products, and technology solutions meet security and risk compliance aligned to the standards outlined by the Tabcorp Technology Security group. 
 * Establish and manage the BA Community of Excellence.  
+
 **Key Accomplishments:**
 * Took leadership and ownership of discovery, elaboration and delivery of major initiatives and projects worth an investment of above $6 million. 
 * Lead and mentor a team of four Senior and Junior Business Analysts.
