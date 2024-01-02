@@ -6,46 +6,6 @@ description: "If you really look closely, most overnight successes took a long t
 image: "images/photos/about.jpg"
 ---
 
-It's 1 am on a warm Christmas morning. I live in Melbourne, Australia so the second-half of December is usually warm. I am not getting sleep. Maybe it is the excitement of my birthday tomorrow, or a gush of sweet memories. Life has been, and is continuing to be, a beautiful journey. A fun-filled childhood, a teen age full of vast experiences with relationships, and an adulthood of accountability, hardwork, responsibilities, and laughter all the way.
+Hi, my name is Ankit Mehta. I am currently working as a Business Technology Partner at [Tabcorp](https://www.tabcorp.com.au/) within the Strategy, Architecture, Design and Engineering (SADE) team. I was born in India and have made Australia my home since 2016. Life has been nothing but a beautiful journey so far. I am always in awe of the world we live in and inspired by the life and great works of nature. 
 
-## Ne verba patulosque numen vix libet
-
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
-
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
-
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
-
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+I am an avid book-reader and always happy to give some nice suggestions. Some of my favourite authors are Mith Albom, Jeffrey Archer, Dan Brown, and Sir Arthur Conan Doyle. I am now trying to explore more Indian authors and authors from countries other than the USA and UK. If you have any suggestions for me, please get in touch. 
