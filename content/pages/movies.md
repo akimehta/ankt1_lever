@@ -9,6 +9,7 @@ description: "A selection of movies, documentaries and shows I highly recommend 
 | 12th Fail                | Hindi        | 2023     |
 | The Pursuit of Happyness | English      | 2006     |
 | Jigarthanda DoubleX      | Tamil        | 2023     |
+| Andhadhun                | Hindi        | 2018     |
 
 ## Documentaries
 
