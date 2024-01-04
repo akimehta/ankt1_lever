@@ -1,8 +1,8 @@
 ---
-title: "Movie recommendations"
+title: "Movie recommendations 🎬"
 date: 2018-11-28T15:15:34+10:00
 url: "movies"
-description: "A selection of movies and shows/series I highly recommend everyone to watch. 🎬"
+description: "A selection of movies and shows/series I highly recommend everyone to watch."
 ---
 ## Movies
 | **Title**                  | **Language** | **Year** | **Genre** |
