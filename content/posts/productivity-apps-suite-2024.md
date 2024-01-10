@@ -1,6 +1,6 @@
 ---
 title: My Productivity Apps Suite for 2024
-date: 2024-09-01
+date: 2024-01-09
 description: "Like a company’s yearly employee performance review, I evaluate the performance of my productivity system. I perform this activity on 31st December and 1st January every year. This gives me the flexibility to experiment with fresh and innovative tools in the market and also embrace life changes. If you know me by now, I get bored very easily and am always on the lookout for changes."
 image: images/productivity-apps-2024.jpg
 imageAltAttribute: using mobile apps
