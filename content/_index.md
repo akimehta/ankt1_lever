@@ -7,8 +7,8 @@ meta:
 
 lead:
   enabled: true
-  heading: "Hi I'm Ankit Mehta, a technology leader, business analyst and writer."
-  description: "My goal is to deliver value to my clients by utilizing my expertise in technology strategy and project management to solve complex business problems. "
+  heading: "Hi I'm Ankit Mehta, a technology leader and mentor."
+  description: "My goal is to deliver value to organisations by utilizing my expertise in technology strategy and project management to solve complex business problems. "
   show_social_media_icons: true
   avatar:
     avatar_image: "images/avatar/avatar.jpg"
@@ -16,7 +16,7 @@ lead:
     avatar_image_width: "120px"
   buttons: 
     - button: 
-      url: "https://calendly.com/zerostatic"
+      url: "mailto:ankit2612@proton.me"
       text: "I'm available for work"
       external: true
       dot: "#46e385" # you can use any color
@@ -27,15 +27,15 @@ work:
   show_view_all: false
   limit: 12
 
-cta:
-  enabled: true
-  heading: "Kickstart your Hugo website"
-  description: "Get your own portfolio up and running in hours with our premium template."
-  email: james@domain.com
-  phone: "+61 048 711 800"
-  buttons:
-  - button: 
-    url: "https://www.zerostatic.io/theme/hugo-lever/"
-    text: "Buy theme"
-    external: true
+# cta:
+#   enabled: true
+#   heading: "Kickstart your Hugo website"
+#   description: "Get your own portfolio up and running in hours with our premium template."
+#   email: james@domain.com
+#   phone: "+61 048 711 800"
+#   buttons:
+#   - button: 
+#     url: "https://www.zerostatic.io/theme/hugo-lever/"
+#     text: "Buy theme"
+#     external: true
 ---
