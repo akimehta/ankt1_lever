@@ -9,7 +9,7 @@ lead:
   enabled: true
   heading: "Hi I'm Ankit Mehta, a technology leader and mentor."
   description: "My goal is to deliver value to organisations by utilizing my expertise in technology strategy and project management to solve complex business problems. "
-  show_social_media_icons: true
+  show_social_media_icons: false
   avatar:
     avatar_image: "images/avatar/avatar.jpg"
     avatar_image_height: "120px"
