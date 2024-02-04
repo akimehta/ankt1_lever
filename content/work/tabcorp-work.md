@@ -1,7 +1,7 @@
 ---
-title: "Business Technology Partner at Tabcorp"
+title: "Lead Business Analyst at Tabcorp"
 date: 2023-04-16T09:38:03+10:00
-categories: ["Leadership", "Strategy", "Project management"]
+categories: ["Leadership", "Strategy", "Business analysis"]
 description: "The first time I saw the horse races and placed a bet."
 icon: "images/icons/icons8-drawing-compass-50.png"
 ---
