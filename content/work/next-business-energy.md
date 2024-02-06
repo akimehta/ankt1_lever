@@ -1,5 +1,5 @@
 ---
-title: "Business Analyst at Next Business Energy"
+title: "Senior Business Analyst/Project Manager at Next Business Energy"
 date: 2021-03-16T09:38:03+10:00
 categories: ["Business process", "SME", "Project management"]
 description: "Performed gap analysis which revelaed significant revenue leakage."
@@ -12,7 +12,7 @@ icon: "images/icons/icons8-light-on-50.png"
 * Perform and document change management and risk analysis. Perform detailed requirements analysis for all business reporting, departmental projects, and software requests. 
 
 ## The story
-"Once you get a job in the energy industry, you are set for life!", told my friend Abhishek when I got the role as a Business Analyst in Next Business Energy. 
+"Once you get a job in the energy industry, you are set for life!", told my friend Abhishek when I got the role as a Senior Business Analyst/Project Manager in Next Business Energy. 
 "Once you are in the energy indsutry, either you get frustrated in four months and quit or fall in love with the chaos and stay forever", said one of the managers on my first day of joining.
 Well, I my journey with the industry lasted for six months. 
 
